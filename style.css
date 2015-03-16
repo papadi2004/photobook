@@ -1,0 +1,139 @@
+body {
+	background-color: black;
+}
+
+#tagline {
+	font-family: verdana;
+	font-size: 12px;
+	text-align: right;
+	display: inline;
+}
+
+.fixed {
+	color: white;
+	width: 100%;
+	position: fixed;
+	background-color: rgba(255, 215, 0, 0.5);
+	height: 50px;
+	font-size: 50px;
+	font-family: garamond, verdana, sans-serif;
+	text-align: right;
+	margin-top: -10px;
+	margin-left: -10px;
+	border: -10px;
+
+}
+.first {
+	height: 200px;
+	width: 200px;
+	background-color: white;
+	display: inline-block;
+	margin-top: 60px;
+	margin-left: 50px;
+	background-image: url("images/image1.jpg");
+	background-size: 200px 200px;
+	border-radius: 15px;
+}
+
+.second {
+	height: 200px;
+	width: 200px;
+	background-color: white;
+	display: inline-block;
+	margin-left: 50px;
+	margin-top: 60px;
+	background-image: url("images/image2.jpg");
+	background-size: 200px 200px;
+	border-radius: 15px;
+}
+
+.third {
+	height: 200px;
+	width: 200px;
+	background-color: white;
+	display: inline-block;
+	margin-left: 50px;
+	margin-top: 60px;
+	background-image: url("images/image3.jpg");
+	background-size: 200px 200px;
+	border-radius: 15px;
+}
+
+.fourth {
+	height: 200px;
+	width: 200px;
+	background-color: white;
+	display: inline-block;
+	margin-left: 50px;
+	margin-top: 60px;
+	background-image: url("images/image5.jpeg");
+	background-size: 200px 200px;
+	border-radius: 15px;
+}
+
+.fifth {
+	height: 200px;
+	width: 200px;
+	background-color: white;
+	display: inline-block;
+	margin-left: 50px;
+	margin-top: 60px;
+	background-image: url("images/image17.jpg");
+	background-size: 200px 200px;
+	border-radius: 15px;
+}
+
+.one {
+	height: 500px;
+	width: 500px;
+	background-color: white;
+	margin-top: 60px;
+	margin-left: 50px;
+	background-image: url("images/image1.jpg");
+	background-size: 500px 500px;
+	border-radius: 15px;
+}
+
+.two {
+	height: 500px;
+	width: 500px;
+	background-color: white;
+	margin-top: 60px;
+	margin-left: 50px;
+	background-image: url("images/image2.jpg");
+	background-size: 500px 500px;
+	border-radius: 15px;
+}
+
+.three {
+	height: 500px;
+	width: 500px;
+	background-color: white;
+	margin-top: 60px;
+	margin-left: 50px;
+	background-image: url("images/image3.jpg");
+	background-size: 500px 500px;
+	border-radius: 15px;
+}
+
+.four {
+	height: 500px;
+	width: 500px;
+	background-color: white;
+	margin-top: 60px;
+	margin-left: 50px;
+	background-image: url("images/image5.jpeg");
+	background-size: 500px 500px;
+	border-radius: 15px;
+}
+
+.five {
+	height: 500px;
+	width: 500px;
+	background-color: white;
+	margin-top: 60px;
+	margin-left: 50px;
+	background-image: url("images/image17.jpg");
+	background-size: 500px 500px;
+	border-radius: 15px;
+}
